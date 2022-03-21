@@ -1,0 +1,11 @@
+bin/
+data/*
+tmp/*
+
+### Eclipse settings
+.checkstyle
+.project
+.classpath
+.settings/
+.metadata/
+RemoteSystemsTempFiles/
