@@ -1,1 +1,2 @@
 # compiler-for-easy-pascal
+Pascal風言語で記述されたプログラムを，アセンブラ言語CASLIIで記述されたプログラムに変換する
